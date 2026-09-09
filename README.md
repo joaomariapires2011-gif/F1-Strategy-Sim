@@ -2,6 +2,7 @@
 
 A Python-based simulation engine designed to evaluate Formula 1 race strategies, tire degradation models, and pit stop time loss calculations.
 
+![Continuous Integration](https://github.com/joaomariapires2011-gif/F1-Strategy-Sim/actions/workflows/tests.yml/badge.svg)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
