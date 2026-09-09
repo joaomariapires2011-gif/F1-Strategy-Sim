@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  telemetry-backend:
+    build: .
+    container_name: f1_strategy_api
+    ports:
+      - "8000:8000"
+    restart: always
+    environment:
+      - ENV=production
